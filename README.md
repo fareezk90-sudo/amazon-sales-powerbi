@@ -19,3 +19,8 @@ Interactive Power BI dashboard created to analyze **Amazon sales data**, identif
 **File:** `Amazon.pbix`
 
 **Author:** Fareez Khan
+
+
+## 📸 Dashboard Preview
+
+![Amazon Sales Dashboard](amazon-dashboard.png)
